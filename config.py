@@ -1,3 +1,4 @@
 SECRET_KEY='hsudyf.,mjhuygsauhipoo//.,'
 PORT=8080
-MYSQL_CONFIG='mysql+mysqlconnector://root:@localhost/amirtodolist'
+MYSQL_CONFIG = "mysql+mysqlconnector://root:xEgLoIwXkUjNIIbUuSakgsOReHNfAUOG@mysql.railway.internal:3306/railway"
+
